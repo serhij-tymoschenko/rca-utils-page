@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.e52404b7.js",
-    "static/js/453.3595a859.chunk.js": "/static/js/453.3595a859.chunk.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.e52404b7.js.map": "/static/js/main.e52404b7.js.map",
-    "453.3595a859.chunk.js.map": "/static/js/453.3595a859.chunk.js.map"
+    "main.css": "/rca-utils-page/static/css/main.f855e6bc.css",
+    "main.js": "/rca-utils-page/static/js/main.470aeac5.js",
+    "static/js/453.3595a859.chunk.js": "/rca-utils-page/static/js/453.3595a859.chunk.js",
+    "index.html": "/rca-utils-page/index.html",
+    "main.f855e6bc.css.map": "/rca-utils-page/static/css/main.f855e6bc.css.map",
+    "main.470aeac5.js.map": "/rca-utils-page/static/js/main.470aeac5.js.map",
+    "453.3595a859.chunk.js.map": "/rca-utils-page/static/js/453.3595a859.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e52404b7.js"
+    "static/js/main.470aeac5.js"
   ]
 }
